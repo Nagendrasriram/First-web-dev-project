@@ -1,4 +1,4 @@
-# 👨‍💻 **Nagendra Sriram's Personal Webdev tas** 🌐
+# 👨‍💻 **Nagendra Sriram's Personal Webdev tasK** 🌐
 
 Welcome to my **Personal Webdev task**! 🚀 This project showcases my journey, skills, and achievements as a **B.Tech CSE** student at **SRM Institute of Science and Technology (SRMIST)**. ✨
 
@@ -41,7 +41,7 @@ I love solving problems and developing innovative solutions. Some of my notable 
 
 ### 🖼️ **Image**
 
-![Nagendra Sriram](img/photo.jpg)  
+![Nagendra Sriram](Img/photo.jpg)  
 _Nagendra Sriram_
 
 ### ✍️ **Forms**
